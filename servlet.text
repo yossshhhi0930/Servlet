@@ -1,0 +1,27 @@
+
+    ディレクトリ: C:\Users\user\apache-tomcat-9.0.53\webapps\servlet
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2023/09/14     14:27                META-INF
+d-----        2023/09/14     14:14                src
+-a----        2023/09/13     10:57            242 blue.jsp
+-a----        2023/09/13     10:55            242 red.jsp
+-a----        2023/09/11     21:43            348 sendJapanese.html
+------        2023/09/14     14:27           3234 servlet.war
+
+
+PS C:\Users\user\apache-tomcat-9.0.53\webapps\servlet> cd C:\Users\user\apache-tomcat-9.0.53\webapps\servlet\src\com\example
+PS C:\Users\user\apache-tomcat-9.0.53\webapps\servlet\src\com\example>lls
+
+
+    ディレクトリ: C:\Users\user\apache-tomcat-9.0.53\webapps\servlet\sr
+    c\com\example
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2023/09/13     10:49           1306 ColorServlet.java
+-a----        2023/09/11     20:10            923 HelloWorld.java
+-a----        2023/09/11     21:59           1255 SendJapanese.java
